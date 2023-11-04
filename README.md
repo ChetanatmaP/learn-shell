@@ -2,4 +2,5 @@
 
 learning shell scripting:
 ____________________
-get result
+1. comments
+2. 
